@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        Methods method = new Methods();
+        Mathematics method = new Mathematics();
                 System.out.println(method.isEven(15));
                 System.out.println(method.isOdd(15));
         System.out.println(method.circleField(15));
